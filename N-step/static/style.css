@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+
+body
+{
+    margin: 8% 15%;
+    background-image: url('Binomial-tree-with-4-steps.png');
+    background-size: cover;
+}
+
+body>div
+{
+    margin: 10% 30%;
+    border-radius: 10px;
+    border: 8px double black;
+    padding: 28px;
+    font-family: 'Hind';
+    background-color: white;
+}
+
+#submit
+{
+    margin: 10px 100px 30px 0px;
+    padding: 5px 15px;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 7px;
+    font-size: 15px;
+    border: none;
+;
+}
+
+#submit:hover
+{
+    cursor: pointer;
+}
